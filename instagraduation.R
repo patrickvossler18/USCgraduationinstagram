@@ -1,8 +1,8 @@
 setwd("/Users/patrick/Dropbox/Spring 2015/Datasets/instagrad")
 
-app_name <- "uscgradtest"
-client_id <- "4a13d17061a8466d8dcfe7409e0b4877"
-client_secret <- "e53ad127b8124589a38ce0abdc344ffb"
+app_name <- ""
+client_id <- ""
+client_secret <- ""
 scope = "basic"
 
 instagram <- oauth_endpoint(
